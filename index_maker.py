@@ -56,8 +56,8 @@ if __name__ == "__main__":
     text_line += "(#" + title_links[i] + ")"
     final_text.append (text_line)
 
-  print "## Indice\n"
+  print ("## Indice\n")
 
-  for text_line in final_text: print text_line
+  for text_line in final_text: print (text_line)
 
-  print "\n![linea](../immagini/linea.png)\n"
+  print ("\n![linea](../immagini/linea.png)\n")

@@ -49,12 +49,12 @@
 
 ### 2.1.1 La gestione delle variabili nel calcolatore
 
-  * In un computer tutto è rappresentato mediante **numeri**
-  * I numeri sono salvati in **zone di memoria** (Random Access Memory = RAM)
-  * Le celle della memoria sono individuate mediante **indirizzi**
-  * Le **variabili di diversi tipi occupano una o più celle** di memoria (una zona),
+  * in un computer tutto è rappresentato mediante **numeri**
+  * i numeri sono salvati in **zone di memoria** (Random Access Memory = RAM)
+  * le celle della memoria sono individuate mediante **indirizzi**
+  * le **variabili di diversi tipi occupano una o più celle** di memoria (una zona),
     a seconda del tipo
-    * Il calcolatore è in grado di **interpretare correttamente il contenuto** di una zona di memoria, 
+    * il calcolatore è in grado di **interpretare correttamente il contenuto** di una zona di memoria, 
       se conosce l'indirizzo della prima cella ed il tipo salvato
 
 ![cella](immagini/celle.png)
